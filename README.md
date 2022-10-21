@@ -10,6 +10,8 @@ The project is a simple counter that starting from 0 increases the value through
 
 TRY THE COUNTER HERE:
 
+https://biondokelvin.github.io/counternewJavaScript/
+
 
 AUTHOR
 --------------------------------------------------------
